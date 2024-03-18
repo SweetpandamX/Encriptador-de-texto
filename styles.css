@@ -259,3 +259,9 @@
   color: #216583; /* Color del texto ligeramente más oscuro */
   transform: scale(1.05);
 }
+
+.btn-copiar:hover {
+  background-color: #f0f0f0; /* Color de fondo ligeramente más claro */
+  color: #216583; /* Color del texto ligeramente más oscuro */
+  transform: scale(1.05);
+}
